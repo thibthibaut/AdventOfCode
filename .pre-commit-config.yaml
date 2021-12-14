@@ -1,6 +1,10 @@
 # See https://pre-commit.com/hooks.html for more hooks
 
+<<<<<<< HEAD
 exclude: "^.*\\.txt"
+=======
+exclude: "^.*txt"
+>>>>>>> 2f7747f55600552efe33aeb63cb02f2ce21d4f58
 
 repos:
   - repo: https://github.com/pre-commit/pre-commit-hooks
