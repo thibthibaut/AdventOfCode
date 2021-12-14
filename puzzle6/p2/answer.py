@@ -1,5 +1,3 @@
-
-
 initial_state = {
     1: 175,
     2: 33,
@@ -23,7 +21,7 @@ precomputed_for_one_fish = {
 
 grand_total = 0
 for i in range(1, 6):
-    total = initial_state[i]*precomputed_for_one_fish[257-i]
+    total = initial_state[i] * precomputed_for_one_fish[257 - i]
     grand_total += total
 
 

@@ -172,7 +172,7 @@ int main() {
 
             std::sort(demixup.begin(),
                       demixup.end()); //, [](const auto lfs, const auto rhs){
-                                      //return lfs < rhs})
+                                      // return lfs < rhs})
             // std::cout << demixup << ' ';
 
             auto digit = string_to_number[demixup];
