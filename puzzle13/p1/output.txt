@@ -1,0 +1,33 @@
+1310 893
+Applying fold 1 655
+Count 618
+Applying fold 0 447
+Count 532
+Applying fold 1 327
+Count 446
+Applying fold 0 223
+Count 373
+Applying fold 1 163
+Count 315
+Applying fold 0 111
+Count 269
+Applying fold 1 81
+Count 227
+Applying fold 0 55
+Count 189
+Applying fold 1 40
+Count 152
+Applying fold 0 27
+Count 131
+Applying fold 0 13
+Count 111
+Applying fold 0 6
+Count 98
+
+ ##  #    ###  #### #  # #### #  # #  #  
+#  # #    #  # #    # #  #    # #  #  #  
+#  # #    #  # ###  ##   ###  ##   #  #  
+#### #    ###  #    # #  #    # #  #  #  
+#  # #    # #  #    # #  #    # #  #  #  
+#  # #### #  # #### #  # #    #  #  ##   
+                                         
